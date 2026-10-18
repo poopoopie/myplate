@@ -49,9 +49,8 @@
 ### 其他
 
 - EVOO。
-- Kefir、乾酪。
-- 薑黃、黑胡椒、迷迭香。
-- Nigella sativa（黑種草籽）：作為香料。
+- Kefir、乾酪、可可。
+- 薑黃、黑胡椒、迷迭香、黑種草籽（Nigella sativa; Thymoquinone）、余甘子（Amla; 降 LDL & PCSK9）。
 - 洋甘菊：Apigenin
 - 乾橙皮（Orange peel）
 
@@ -94,7 +93,11 @@
 - 紅麴：毒素風險。
 - 胡蘆巴籽：刺激 insulin。
 - 野櫻莓乾（Aronia）：糖分高、花青素單調、表現輸藍莓。
+- 歐洲野生越橘乾（Bilberry）：糖分高、貴、表現輸藍莓。
+- 黑醋栗乾（Blackcurrant）：糖分高、貴、表現輸藍莓。
+- 黑樹莓乾（Black raspberry）：糖分高、貴、表現輸藍莓。
 - 綠國寶茶（Green Rooibos）：PA 風險、Aspalathin 表現不強
+- 黑蒜：沒有機、和生大蒜成只差成分比例不同(果糖更高)。
 
 ## 5. 已研究但尚未找到合適商品
 
